@@ -3,18 +3,18 @@
   <img src="github.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Adal Kelly</h1>
+<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Haseeb Zulfiqar</h1>
 <h3 align="center">Senior Full Stack Software Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/adalkelly/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adeel" height="30" width="40" /></a>
- <a href = "mailto: adal.kelly92@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haseeb-zulfiqar-5621986b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Haseeb" height="30" width="40" /></a>
+ <a href = "mailto: mianhaseeb41@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 <p align="center">
   <em>
-    This is ME, Adal Kelly<br>
-   a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 7 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is equally my forte. I'm committed to continuous learning, staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
+    This is ME, Haseeb Zulfiqar<br>
+   a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 8 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is equally my forte. I'm committed to continuous learning, staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
 <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="Rocket.gif" width="18px">and
     <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
@@ -28,7 +28,8 @@
 ### <u> Languages: </u>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel" alt="Laravel" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql" alt="Mysql" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
