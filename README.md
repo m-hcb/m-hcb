@@ -32,24 +32,15 @@
 <span><img src="https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql" alt="Mysql" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/React.js-339933?style=for-the-badge&logo=react.js&logoColor=white" alt="React.js logo" title="React.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
-<span>
-  <img
+<span><img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js logo" title="React.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Typescript.js-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
+<span><img
     src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"
     alt="Java"
     title="Java"
     height="25"
-  />
-</span>
-<span>
-  <img
-    src="https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.net"
-    alt=".NET"
-    title=".NET"
-    height="25"
-  />
-</span>
+  /></span>
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
