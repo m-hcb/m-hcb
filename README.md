@@ -31,9 +31,9 @@
 <span><img src="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel" alt="Laravel" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql" alt="Mysql" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
+<span><img src="https://img.shields.io/badge/React.js-339933?style=for-the-badge&logo=react.js&logoColor=white" alt="React.js logo" title="React.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
 <span>
   <img
     src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"
