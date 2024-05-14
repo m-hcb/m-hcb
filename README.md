@@ -36,7 +36,7 @@
 <span><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Typescript.js-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
 <span><img
-    src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"
+    src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"
     alt="Java"
     title="Java"
     height="25"
