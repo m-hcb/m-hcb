@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="github.png" height="200"/>
 </p>
@@ -122,6 +123,14 @@
 </span>
 <span>
   <img
+    src="https://img.shields.io/badge/Google Cloud Services -white?style=for-the-badge&logo=google-cloud"
+    alt="Google cloud"
+    title="Google cloud"
+    height="25"
+  />
+</span>
+<span>
+  <img
     src="https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog"
     alt="Datadog"
     title="Datadog"
@@ -139,13 +148,19 @@
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
-<span><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic logo" title="Ionic" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React Native-3880FF?style=for-the-badge&logo=react&logoColor=white" alt="react logo" title="React native" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Android-3880?style=for-the-badge&logo=android&logoColor=white" alt="Android logo" title="Android native" height="25" /></span>
 &nbsp;
 
 ### <u> Version Control and Tools:</u>
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
 &nbsp;
 
 ### <u> 3rd Party API's:</u>
